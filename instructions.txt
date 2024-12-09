@@ -1,0 +1,53 @@
+JavaScript Control Structures and Functions
+
+
+Exploring Conditional Statements and Loops
+
+
+Objective: 
+
+The aim of this assignment is to familiarize students with conditional statements and loops in JavaScript and enhance their problem-solving skills using these control 
+structures.
+
+
+Problem Statement: 
+
+You are tasked with creating a JavaScript program that simulates a simple online shopping experience. The program should allow users to browse products, add them to a 
+cart, and calculate the total cost of their purchase.
+
+
+Task 1: 
+Implement a conditional statement to check if a user is logged in. This doesn't need to be anything complex, a simple let loggedIn = true will do.
+status: COMPLETE
+
+Task 2: 
+If they are logged in, loop over the 'cart' array below and log the list of available products to the user. If they are not logged in, tell the user they will need to 
+log in before they can view their cart.
+status: COMPLETE
+
+
+Exploring Functions in JavaScript
+
+
+Objective: 
+
+The aim of this assignment is to deepen students' understanding of functions in JavaScript and their various applications in solving programming problems.
+
+
+Problem Statement: 
+
+Your task is to develop a JavaScript program that simulates a simple banking system. The program should include functions to perform basic banking operations such as 
+deposit, withdrawal, and balance inquiry.
+
+
+Task 1: 
+Create a function to handle deposits into a bank account. Essentially, adding money to your bank account.
+status: COMPLETE
+
+Task 2: 
+Implement a function to handle withdrawals from a bank account. Essentially, taking money out of your bank account.
+status: COMPLETE
+
+Task 3: 
+Develop a function to check the current balance of the account. Lastly, show much much money you have left.
+status: COMPLETE
